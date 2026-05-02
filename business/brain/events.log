@@ -1,0 +1,150 @@
+---
+date: 2026-04-29 00:00 EDT
+agent: system
+importance: 4
+confidence: high
+---
+Brain architecture established. north-star.md, decisions.md created.
+
+---
+date: 2026-04-29 00:00 EDT
+agent: claude
+importance: 4
+confidence: high
+---
+Kakuzu foundation doc written at brain/agents/kakuzu-foundation.md.
+
+---
+date: 2026-04-29 00:00 EDT
+agent: nagato
+importance: 5
+confidence: high
+---
+Priority order set: brain skeleton → Kakuzu → Deidara.
+---
+date: 2026-04-30 19:32 EDT
+agent: system
+importance: 3
+confidence: high
+---
+Brain recall evaluation: 100.0% (10/10). Status: PASS.
+
+---
+date: 2026-04-30 19:36 EDT
+agent: pain
+importance: 4
+confidence: high
+---
+Kakuzu deployed. State files (runway.md, cogs.md, ppc.md) initialized. Episodic log created. Warming-up mode active — no importance=5 emissions for 30 days. Communication model: Kakuzu reports through Pain (chief of staff). Nagato never contacts Kakuzu directly. guardrails: Runway <60d AND >15% drop WoW, Margin <30% AND >5pp drop, ROAS <1.2x AND >0.5x drop. False alarm protocol: Nagato → Pain → "tell Kakuzu that was false, show me the math."
+---
+date: 2026-04-30 22:02 EDT
+agent: pain
+importance: 4
+confidence: high
+---
+Sasori deployed — tool and app builder agent. Telegram: @futurefoundations_sasori_bot. Own bot token stored in .env as SASORI_BOT_TOKEN. Communication: Nagato can DM directly, Pain relays via inbox. Karpathy coding principles baked into foundation doc.
+
+---
+agent: pain
+importance: 4
+confidence: high
+quarantine_until: 2026-04-30T23:05-04:00
+---
+
+[2026-04-30 23:00 EDT] Sasori foundation document completed. Comprehensive build including: communication protocol, write protocol with importance scoring, 14 hard stops, build classification (P0-P3), complexity tiers (small/medium/large/system), testing requirements per tier, 8-gate deployment pipeline, warming-up mode (30 days), dry-run protocol (first 3 builds), data labeling, security baseline, startup sequence, sprint cadence, error handling & recovery, tool inventory standards. Sasori now matches Kakuzu's documentation depth. OWNERSHIP.md updated with Sasori's files. inbox/sasori.md created. Ready for Nagato review.
+
+---
+agent: pain
+importance: 4
+confidence: high
+quarantine_until: 2026-04-30T23:25-04:00
+---
+
+[2026-04-30 23:19 EDT] AGENT-ONBOARDING.md created. Standardized agent production procedure using Kakuzu's smooth deployment as the template. 5 phases: Prerequisites (Nagato decisions) → Foundation Document (15 required sections, Kakuzu-depth minimum) → Brain Wiring (files, OWNERSHIP, brain-load context) → Infrastructure (OpenClaw config, workspace, channel) → Warming & Dry-Run (3 sessions, Pain review) → Go-Live (audit, monitor 7 days). Includes full checklist, workspace file templates (AGENTS.md, SOUL.md, IDENTITY.md), and explicit note that Deidara is next in queue. This procedure eliminates the skeleton-first mistake we made with Sasori.
+
+---
+agent: pain
+importance: 4
+confidence: high
+quarantine_until: 2026-04-30T23:45-04:00
+---
+
+[2026-04-30 23:35 EDT] Itachi deployed — Audit & Security Sentinel. Foundation doc written (24KB, 6 audit types, adversarial testing protocol, agent trust score formula). Brain wired: episodic/itachi.log, state/audit.md, state/security.md, state/agent-health.md, tasks/itachi.md, inbox/itachi.md. OWNERSHIP.md updated (6 entries). brain-load.sh audit context added. Workspace created. Audit cron layer deployed: 1 active (brain-test.sh health check every 6h) + 4 disabled (daily consistency, weekly security, weekly drift, monthly comprehensive — activate after Itachi warming). Itachi is sub-agent only (no Telegram bot). Warming mode: 30 days, 3 dry-run audits, Pain review. Adversarial testing gated until post-warming.
+
+---
+date: 2026-05-01 02:00 EDT
+agent: pain
+importance: 2
+confidence: high
+---
+Monthly brain archive completed: events.log rotated to archive/2026-05/events.log.gz (1712 bytes), state/*.md snapshot (10 files) saved to archive/2026-05/state-snapshot/. No entries trimmed — all entries have importance ≥3 and are <90 days old. Archive integrity verified OK.
+
+---
+date: 2026-05-01 03:00 EDT
+agent: pain
+importance: 2
+confidence: high
+---
+Daily brain backup: git auto-commit (e90f282, 58 files, 4950 insertions). Push skipped (no remote configured). Rsync skipped (B2 not configured). Repo health OK.
+---
+date: 2026-05-01 07:46 EDT
+agent: system
+importance: 2
+confidence: high
+---
+Brain integration tests (pain): 13 passed, 0 failed, 6 skipped.
+
+---
+date: 2026-05-01 07:46 EDT
+agent: system
+importance: 2
+confidence: high
+---
+Brain integration tests (kakuzu): 13 passed, 0 failed, 6 skipped.
+
+---
+date: 2026-05-01 08:35 EDT
+agent: system
+importance: 3
+confidence: high
+---
+Brain recall evaluation: 100.0% (10/10). Status: PASS.
+
+
+---
+date: 2026-05-01 08:35 EDT
+agent: pain
+importance: 3
+confidence: high
+---
+Brain recall evaluation: 100.0% (10/10). Status: PASS.
+---
+date: 2026-05-01 09:45 EDT
+agent: pain
+importance: 3
+confidence: high
+---
+Council convened (20260501-0945): Should we price the 8-pack at $29.99 or $34.99 given our $30K capital? | Agents: kakuzu
+---
+date: 2026-05-01 09:51 EDT
+agent: pain
+importance: 3
+confidence: high
+---
+Council convened (20260501-0951): Should we price the 8-pack at $29.99 or $34.99 given our $30K capital and Healspot displacement target? | Agents: kakuzu,sasori | Rounds: 2
+---
+date: 2026-05-01 12:05 EDT
+agent: system
+importance: 2
+confidence: high
+---
+Brain integration tests (pain): 13 passed, 0 failed, 6 skipped.
+
+---
+date: 2026-05-01 18:05 EDT
+agent: system
+importance: 2
+confidence: high
+---
+Brain integration tests (pain): 13 passed, 0 failed, 6 skipped.
+

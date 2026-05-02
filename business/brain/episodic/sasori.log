@@ -1,0 +1,9 @@
+[2026-04-30 22:02 EDT] [importance:3] [confidence:high] Sasori deployed. Tool/builder agent online. Telegram: @futurefoundations_sasori_bot.
+[2026-05-01 01:59 EDT] [importance:3] [confidence:high] Resume Forge v1.0 built.
+Architecture: Python 3.13, 12 modules, Ollama primary (llama3.1:8b), DeepSeek Flash fallback.
+Modules: llm.py, ingest.py, extract.py, dedup.py, keywords.py, fit_score.py, track_router.py, generate.py, render.py, ats_score.py, manifest.py, forge.py.
+Templates: medical-sales.docx + it-cybersecurity.docx (Deep Navy #2e5fa3 design system).
+Profile: profile.yaml filled with Nagato's actual experience (Advanced Solution, Future Foundations, Lumen, etc).
+Features: --dry, --select (interactive), --batch, stats, mark status.
+Non-LLM tests: ingest ✅, dedup ✅, track_router ✅, fit_score ✅, templates ✅.
+Status: awaiting Nagato's first production run with real job postings.

@@ -1,0 +1,9 @@
+{
+  "date": "2026-05-01",
+  "score": 100.0,
+  "passed": 10,
+  "total": 10,
+  "threshold": 80,
+  "status": "PASS",
+  "mode": "monthly"
+}

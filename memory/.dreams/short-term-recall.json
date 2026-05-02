@@ -1,0 +1,362 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-01T20:28:08.778Z",
+  "entries": {
+    "memory:memory/2026-04-29.md:1:23": {
+      "key": "memory:memory/2026-04-29.md:1:23",
+      "path": "memory/2026-04-29.md",
+      "startLine": 1,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "# 2026-04-29 ## First contact with Salih - Telegram: @salih0x - Salih wants me as his **expert engineer** with unlimited memory - Role: deep technical partner, builder, problem-solver - Direct, no-fluff communication style preferred - Named after Pain Uzumaki from Naruto - Salih = Nagato (the leader), I = Pain (the execution arm) - This is the inception of Akatsuki — but business-focused - Cannot spawn sub-agents without explicit approval first ## Business: Stir-Fry Ramen Brand Launch - Full context doc saved to memory/business-context.md (Claude-generated) - Avocado oil / no seed oils hero claim - 8-pack, $29.99 MSRP, Amazon FBA launch - $35K total capital, launching pre-launch - Primary",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-30T12:34:13.539Z",
+      "lastRecalledAt": "2026-04-30T12:34:13.539Z",
+      "queryHashes": [
+        "e4ebd00535d4"
+      ],
+      "recallDays": [
+        "2026-04-30"
+      ],
+      "conceptTags": [
+        "problem-solver",
+        "no-fluff",
+        "business-focused",
+        "sub-agents",
+        "stir-fry",
+        "memory/business-context.md",
+        "claude-generated",
+        "8-pack"
+      ]
+    },
+    "memory:memory/2026-04-30.md:70:101": {
+      "key": "memory:memory/2026-04-30.md:70:101",
+      "path": "memory/2026-04-30.md",
+      "startLine": 70,
+      "endLine": 101,
+      "source": "memory",
+      "snippet": "3. ✅ CRITICAL 4 — Split tasks/nagato.md → tasks/nagato-financial.md (Kakuzu's surface) 4. ✅ CRITICAL 3 — Show your math: Kakuzu must include calculation inputs on escaltions ### #21b — Kakuzu Deployed - Financial heart agent live — warming mode, Pain as sole intermediary - Salih → Pain → Kakuzu → Pain → Salih relay pattern - No direct Telegram access for Kakuzu - CFO-through-chief-of-staff architecture ### Voice Pipeline — Fully Local, Zero API Keys - STT: faster-whisper small (local, CPU ~1x realtime) - TTS: Piper TTS (11 voices downloaded, Ryan/male default) - ffmpeg installed for voice effects (Ultron style attempted) - Voice notes work: Salih speaks → I transcribe → I respond - Attempt",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 4,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-01T02:29:47.818Z",
+      "lastRecalledAt": "2026-05-01T02:57:39.768Z",
+      "queryHashes": [
+        "dec34c03cb57",
+        "556470404d4d",
+        "8679d7fdbdb3",
+        "9df069e234b3"
+      ],
+      "recallDays": [
+        "2026-04-30"
+      ],
+      "conceptTags": [
+        "tasks/nagato.md",
+        "tasks/nagato-financial.md",
+        "cfo-through-chief-of-staff",
+        "faster-whisper",
+        "ryan/male",
+        "critical",
+        "split",
+        "tasks"
+      ]
+    },
+    "memory:memory/2026-04-29.md:1:35": {
+      "key": "memory:memory/2026-04-29.md:1:35",
+      "path": "memory/2026-04-29.md",
+      "startLine": 1,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "# 2026-04-29 — Akatsuki Launch Day ## Setup Complete - **OpenClaw** running on Debian 13 VM (VMware, Windows host) - **Claude Code** v2.1.123 installed, authenticated as **claude-worker** (isolated user) - **Security architecture**: `sudo -u claude-worker` via `/etc/sudoers.d/claude-invoke` - **Wrapper script**: `claude-wrapper.sh` bridges file permissions + PTY for TTY-dependent output - **Agent identity**: Pain (Naruto's Pain), Salih = Nagato ## Integration Status - ✅ Short/medium prompts via PTY wrapper work instantly - ✅ Long queries work via Python subprocess (bypasses shell $ expansion) - ⏳ OpenClaw claude-cli backend integration still needs debugging - ⏳ Tool execution in PTY mode i",
+      "recallCount": 9,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 9,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-01T02:29:47.818Z",
+      "lastRecalledAt": "2026-05-01T20:28:08.778Z",
+      "queryHashes": [
+        "dec34c03cb57",
+        "556470404d4d",
+        "9df069e234b3",
+        "d155f3989708",
+        "45cff4e00b93",
+        "58973e0907cf",
+        "28d4b58bcb4d",
+        "19484bc3d0b2",
+        "65376ca812b9"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "v2.1.123",
+        "claude-worker",
+        "etc/sudoers.d/claude-invoke",
+        "claude-wrapper.sh",
+        "tty-dependent",
+        "short/medium",
+        "claude-cli",
+        "akatsuki"
+      ]
+    },
+    "memory:memory/2026-04-30.md:52:76": {
+      "key": "memory:memory/2026-04-30.md:52:76",
+      "path": "memory/2026-04-30.md",
+      "startLine": 52,
+      "endLine": 76,
+      "source": "memory",
+      "snippet": "7. SQLite for state, not markdown → deployed state.db 8. Convention vs enforcement gap → push invariants into brain-write.sh 9. No adversarial test harness → built brain-test.sh (12/12 passing) ### DeepSeek V4 Pro Adversarial Critique - Spawned Pro as Systems Architect vs Security Auditor debate (517 lines) - Found 3 CRITICAL issues Claude missed: 1. brain-write.sh has zero ownership enforcement (comment says \"ownership enforced\" but code accepts any agent) 2. Quarantine silently bypassed (brain-load.sh greps events.log with no quarantine check) 3. Kakuzu is both calculator AND auditor — no segregation of duties - Also found: Kuzu edges never populated (MentionsEntity=0, MentionsConce",
+      "recallCount": 7,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 7,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-01T02:29:47.818Z",
+      "lastRecalledAt": "2026-05-01T20:25:27.271Z",
+      "queryHashes": [
+        "dec34c03cb57",
+        "556470404d4d",
+        "8679d7fdbdb3",
+        "9df069e234b3",
+        "d155f3989708",
+        "58973e0907cf",
+        "28d4b58bcb4d"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "state.db",
+        "brain-write.sh",
+        "brain-test.sh",
+        "12/12",
+        "brain-load.sh",
+        "events.log",
+        "sqlite",
+        "state"
+      ]
+    },
+    "memory:memory/2026-04-30.md:1:34": {
+      "key": "memory:memory/2026-04-30.md:1:34",
+      "path": "memory/2026-04-30.md",
+      "startLine": 1,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "# 2026-04-30 ## Morning Reset - Salih asked about yesterday's priorities - I defaulted to old session memory instead of business/brain/ — bad lookup priority - Learned: brain/ directory is canonical source of truth, check it FIRST - Fixed: Updated AGENTS.md with brain-first lookup rule - Nagato forgave me. We're building and improving. ## Today's Priority Order 1. 🥇 Build the brain — skeleton, brain-load.sh, brain-write.sh, wire Pain 2. 🥈 Spawn Kakuzu (financial heart agent) 3. 🥉 Plan Deidara (brand builder / viral explosion agent) ## Rules Established - AGENTS.md updated with brain-first lookup rule - **Foundational/architectural work requires Nagato permission before execution** - Sp",
+      "recallCount": 10,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 10,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-01T02:29:47.818Z",
+      "lastRecalledAt": "2026-05-01T20:28:08.778Z",
+      "queryHashes": [
+        "dec34c03cb57",
+        "556470404d4d",
+        "8679d7fdbdb3",
+        "9df069e234b3",
+        "d155f3989708",
+        "45cff4e00b93",
+        "58973e0907cf",
+        "28d4b58bcb4d",
+        "19484bc3d0b2",
+        "65376ca812b9"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "business/brain",
+        "agents.md",
+        "brain-first",
+        "brain-load.sh",
+        "brain-write.sh",
+        "foundational/architectural",
+        "morning",
+        "reset"
+      ]
+    },
+    "memory:memory/2026-04-30.md:28:58": {
+      "key": "memory:memory/2026-04-30.md:28:58",
+      "path": "memory/2026-04-30.md",
+      "startLine": 28,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "- The correct approach: plan once, prep all context inline, send one well-crafted prompt - Protocol encoded in AGENTS.md + tasks/pain.md ## Setup Achieved - AGENTS.md updated with brain-first lookup rule + foundational work ask-first rule + Claude Opus usage protocol - Business brain skeleton built - BRAIN-ARCHITECTURE.md written by Claude Opus (v1, 655 lines) - Round 2 of architecture debate interrupted by rate limit - Claude Opus quota resets at 2pm EDT ## Evening Session — Post-2PM Opus Reset ### Opus Critique (Round 2) — Efficient Token Usage - Sent Claude Opus a tight 15KB prompt (~1/3 of morning's 52KB) - Used only 9% of Opus quota — one well-crafted message - Lesson learned from mo",
+      "recallCount": 7,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 7,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-01T02:29:47.818Z",
+      "lastRecalledAt": "2026-05-01T20:28:08.778Z",
+      "queryHashes": [
+        "dec34c03cb57",
+        "556470404d4d",
+        "9df069e234b3",
+        "d155f3989708",
+        "45cff4e00b93",
+        "19484bc3d0b2",
+        "65376ca812b9"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "well-crafted",
+        "agents.md",
+        "tasks/pain.md",
+        "brain-first",
+        "ask-first",
+        "brain-architecture.md",
+        "post-2pm",
+        "1/3"
+      ]
+    },
+    "memory:memory/2026-04-29.md:28:45": {
+      "key": "memory:memory/2026-04-29.md:28:45",
+      "path": "memory/2026-04-29.md",
+      "startLine": 28,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "- Sub-agents require explicit Nagato approval before spawning - No API keys stored on VM - Claude credentials isolated to claude-worker's home ## Business: Stir-Fry Ramen Brand - Full context doc in `memory/business-context.md` - Avocado oil / no seed oils hero claim - 8-pack $29.99, $35K capital, Healspot displacement target - Pre-launch: pending trademark, LLC, supplier verification ## Claude Code Integration (end of night) - Wrapper (claude-wrapper.sh) fully working: PTY fix, stale cleanup, 15-min timeout - Sudoers rule added for cleanup (need to verify perms: `sudo chmod 440`) - Two-turn conversation with Claude about brain architecture: - Turn 1 (Opus): Short response, asked for spe",
+      "recallCount": 5,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 5,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-01T02:42:21.797Z",
+      "lastRecalledAt": "2026-05-01T20:28:08.778Z",
+      "queryHashes": [
+        "8679d7fdbdb3",
+        "45cff4e00b93",
+        "58973e0907cf",
+        "28d4b58bcb4d",
+        "65376ca812b9"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "sub-agents",
+        "claude-worker",
+        "stir-fry",
+        "memory/business-context.md",
+        "8-pack",
+        "29.99",
+        "pre-launch",
+        "claude-wrapper.sh"
+      ]
+    },
+    "memory:memory/2026-04-30.md:91:111": {
+      "key": "memory:memory/2026-04-30.md:91:111",
+      "path": "memory/2026-04-30.md",
+      "startLine": 91,
+      "endLine": 111,
+      "source": "memory",
+      "snippet": "- 🧠 Brain: 7 architecture docs, 8 scripts, 4 cron jobs, SQLite state.db, Kuzu graph - 🧪 Tests: brain-test.sh 12/12, brain-eval.sh 100% ### Sasori Documentation (Late Night — Apr 30, 23:00 EDT) - Nagato launched Sasori and asked for Kakuzu-level detailed docs - Wrote comprehensive foundation document (528 lines, 23KB, 20 sections) - Sections: Role, Communication, Owns/Reads, Write Protocol, Importance Scoring, 14 Hard Stops, Build Classification (P0-P3), Complexity Tiers (small/medium/large/system), Testing Requirements per tier, 8-Gate Deployment Pipeline, Data Labeling, Directives (daily/per-request/weekly/sprint), Warming-Up Mode (30 days + dry-run first 3 builds), Startup Sequence, Aut",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 3,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-01T05:15:44.653Z",
+      "lastRecalledAt": "2026-05-01T20:28:05.294Z",
+      "queryHashes": [
+        "d155f3989708",
+        "45cff4e00b93",
+        "19484bc3d0b2"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "state.db",
+        "brain-test.sh",
+        "12/12",
+        "brain-eval.sh",
+        "kakuzu-level",
+        "owns/reads",
+        "p0-p3",
+        "small/medium/large/system"
+      ]
+    },
+    "memory:memory/2026-04-30.md:127:141": {
+      "key": "memory:memory/2026-04-30.md:127:141",
+      "path": "memory/2026-04-30.md",
+      "startLine": 127,
+      "endLine": 141,
+      "source": "memory",
+      "snippet": "- Considered White Zetsu (passive observer), Obito (manipulator), Itachi (ANBU sentinel) — chose Itachi - Deployed Itachi — Audit & Security Sentinel - Foundation doc: 24KB, 6 audit types (Consistency, Hallucination, Protocol Compliance, Security, Drift Analysis, Adversarial) - Adversarial testing protocol: 6 probe types (boundary, consistency, source, fabrication, confidence, authority) - Agent Trust Score formula: Accuracy×0.35 + Completeness×0.25 + Protocol×0.25 + Usefulness×0.15 - Brain wired: 3 new state files (audit.md, security.md, agent-health.md), tasks, inbox, episodic - OWNERSHIP.md updated with 6 Itachi entries - brain-load.sh: audit context added - Workspace created with AGENTS/",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-01T05:15:44.653Z",
+      "lastRecalledAt": "2026-05-01T05:15:44.653Z",
+      "queryHashes": [
+        "d155f3989708"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "0.35",
+        "0.25",
+        "0.15",
+        "audit.md",
+        "security.md",
+        "agent-health.md",
+        "ownership.md",
+        "brain-load.sh"
+      ]
+    },
+    "memory:memory/2026-04-30.md:70:96": {
+      "key": "memory:memory/2026-04-30.md:70:96",
+      "path": "memory/2026-04-30.md",
+      "startLine": 70,
+      "endLine": 96,
+      "source": "memory",
+      "snippet": "3. ✅ CRITICAL 4 — Split tasks/nagato.md → tasks/nagato-financial.md (Kakuzu's surface) 4. ✅ CRITICAL 3 — Show your math: Kakuzu must include calculation inputs on escaltions ### #21b — Kakuzu Deployed - Financial heart agent live — warming mode, Pain as sole intermediary - Salih → Pain → Kakuzu → Pain → Salih relay pattern - No direct Telegram access for Kakuzu - CFO-through-chief-of-staff architecture ### Voice Pipeline — Fully Local, Zero API Keys - STT: faster-whisper small (local, CPU ~1x realtime) - TTS: Piper TTS (11 voices downloaded, Ryan/male default) - ffmpeg installed for voice effects (Ultron style attempted) - Voice notes work: Salih speaks → I transcribe → I respond - Attempt",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 4,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-01T13:41:57.936Z",
+      "lastRecalledAt": "2026-05-01T20:28:05.294Z",
+      "queryHashes": [
+        "45cff4e00b93",
+        "58973e0907cf",
+        "28d4b58bcb4d",
+        "19484bc3d0b2"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "tasks/nagato.md",
+        "tasks/nagato-financial.md",
+        "cfo-through-chief-of-staff",
+        "faster-whisper",
+        "ryan/male",
+        "critical",
+        "split",
+        "tasks"
+      ]
+    }
+  }
+}

@@ -1,0 +1,310 @@
+# US-Based Sales Roles (filtered from pipeline)
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4766769101 | PolyAI | Account Manager
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4831815101 | PolyAI | Enterprise Account Executive
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4852142101 | PolyAI | Enterprise Account Executive, Healthcare (Northeast)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5624231004 | Vercel | Account Executive- Startups, Greenfield
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5789770004 | Vercel | Account Executive- Startups, Install Base
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5972804004 | Vercel | Director, Sales Development 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5042174004 | Vercel | Enterprise Account Executive
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5800328004 | Vercel | Strategic Account Executive
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4635890101 | Parloa | Business Development Representative
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4843927101 | Parloa | Team Lead, Business Development 
+- [ ] https://jobs.ashbyhq.com/bland/72c82d6b-99c1-4bae-a5c8-267c74b13081 | Bland AI | Technical Account Manager
+- [ ] https://jobs.ashbyhq.com/bland/f47deb2b-c31a-467e-afc1-cf38134cd370 | Bland AI | Business Development Representative
+- [ ] https://jobs.ashbyhq.com/bland/56f3fd9f-4018-4bbf-9208-4831449b4792 | Bland AI | Mid-Market Account Executive
+- [ ] https://jobs.ashbyhq.com/bland/dc26ae53-bd0f-4e58-9e01-dea3777c0830 | Bland AI | Enterprise Account Executive
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7247950 | Intercom | Account Executive, Commercial
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7408013 | Intercom | Account Executive, Commercial 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7591182 | Intercom | Account Executive, Commercial - French Speaking 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7603334 | Intercom | Account Executive, Emerging AI Products
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7838601 | Intercom | Account Executive, Enterprise
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7296732 | Intercom | Account Executive (Existing Business), Commercial 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7286050 | Intercom | Account Executive, MidMarket
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7345114 | Intercom | Account Executive, Mid-Market
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7386163 | Intercom | Account Executive, MidMarket - German Speaking
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7559695 | Intercom | Account Executive, Senior MidMarket
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7807477 | Intercom | Business Development Representative
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7807509 | Intercom | Business Development Representative, Emerging AI Products 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7765514 | Intercom | Business Development Representative, MidMarket/Commercial
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7394515 | Intercom | Manager, Account Executives (MidMarket)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7546384 | Intercom | Sales Development Coordinator (6 month FTC) 
+- [ ] https://jobs.ashbyhq.com/vapi/50d82ec9-720a-4aea-9a2d-c502786f737e | Vapi | Enterprise Account Executive
+- [ ] https://jobs.ashbyhq.com/vapi/6c313f2f-5287-4e51-a0a4-a38cda6f79dc | Vapi | Sales Development Representative (SDR)
+- [ ] https://jobs.ashbyhq.com/vapi/e7c7a40d-4fa9-4f26-8517-343c2e0daa8b | Vapi | Mid Market Account Executive
+- [ ] https://jobs.ashbyhq.com/vapi/68b5209c-f814-4528-a340-7d958cc7ed79 | Vapi | Enterprise Account Executive, NYC
+- [ ] https://jobs.ashbyhq.com/deepgram/7fe7bd7d-b337-4337-b459-a892be80789e | Deepgram | Strategic Account Executive
+- [ ] https://jobs.ashbyhq.com/deepgram/a6c59ee7-4d92-423c-a6e6-99adcd9e6ff3 | Deepgram | Sales Development Representative
+- [ ] https://jobs.ashbyhq.com/deepgram/9e9ceef6-e22c-4157-906c-91b2da8e22ae | Deepgram | Enterprise Account Executive - AI Platform (B2B Saas/Restaurant Tech Vertical)
+- [ ] https://jobs.ashbyhq.com/deepgram/91ea80f4-cc54-4c52-8ef5-d2c2b2764640 | Deepgram | Corporate Account Executive
+- [ ] https://jobs.ashbyhq.com/elevenlabs/158034c9-eb7c-4348-a0b8-fa9e817b29f1 | ElevenLabs | Sales Development - United States
+- [ ] https://jobs.ashbyhq.com/elevenlabs/aa87b7bf-2fd5-4d94-9673-142f6349cf9e | ElevenLabs | Account Executive - North America - Mid-Market
+- [ ] https://jobs.ashbyhq.com/elevenlabs/71f84d23-fda9-45af-a249-8bbdb258bc18 | ElevenLabs | Account Manager Lead - North America - Enterprise
+- [ ] https://jobs.ashbyhq.com/elevenlabs/144dafdb-03aa-46ff-8555-a16ffec52abc | ElevenLabs | Account Executive - North America - Corporate
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b647ad26-3e3a-4e0b-8ef4-6bab2cacd5c7 | ElevenLabs | Account Executive - North Asia 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/68a1ad0b-d74e-4ebe-b6d0-877c53c9df7f | ElevenLabs | Enterprise Account Executive - United States - Government
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b89ff518-824e-4736-a4c7-c68ea3b6b62f | ElevenLabs | Account Executive - North America - Strategic
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3a25ed8a-5870-4a0e-90e4-6e5a4b2c7e04 | ElevenLabs | Account Manager - North America - Enterprise Segment
+- [ ] https://jobs.ashbyhq.com/elevenlabs/7563e051-8de0-48ac-bcf2-70eaf22e3f8b | ElevenLabs | Account Manager - North America - Strategic Segment
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4e544a96-ed24-42c0-ba70-7f0bab6ffbb2 | ElevenLabs | Account Manager - North America - Corporate Segment
+- [ ] https://jobs.ashbyhq.com/elevenlabs/29152b04-59a4-4f3e-903a-144a012da93e | ElevenLabs | Strategic Business Development - United States
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3b7a423c-01fd-4405-ab9a-ee51ed354ba9 | ElevenLabs | Account Manager - North America - Mid-Market Segment
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4981639008 | RunPod | Account Manager 
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5810147004 | Arize AI | Enterprise Account Executive 
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5730389004 | Arize AI | Enterprise Account Executive (San Francisco)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5829145004 | Arize AI | Expansion Account Executive 
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5986827004 | Arize AI | Expansion Account Executive  (Boston)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5986826004 | Arize AI | Expansion Account Executive  (New York)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5985810004 | Arize AI | Mid-Market Account Executive (Bay Area)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5803069004 | Arize AI | Mid-Market Account Executive (San Francisco)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5838869004 | Arize AI | Sales Development Representative 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4595937005 | Glean | Commercial Account Executive, Benelux
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4635139005 | Glean | Commercial Account Executive, Canada
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4689938005 | Glean | Commercial Account Executive, East
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4644028005 | Glean | Commercial Account Executive, Israel
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4654572005 | Glean | Commercial Account Executive, UK/CEE
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4660077005 | Glean | Corporate Account Executive
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4673564005 | Glean | Corporate Account Executive, Nashville
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4619072005 | Glean | Enterprise Account Executive
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4677723005 | Glean | Enterprise Account Executive, Canada
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4687412005 | Glean | Enterprise Account Executive, Carolinas
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4680473005 | Glean | Enterprise Account Executive, Mid-Atlantic
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4665752005 | Glean | Enterprise Account Executive, North Central
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4615117005 | Glean | Enterprise Account Executive, NYC
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4615635005 | Glean | Enterprise Account Executive, Ohio Valley
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4652361005 | Glean | Enterprise Account Executive, UKI
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4498039005 | Glean | Sales Development Manager
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4338812005 | Glean | Sales Development Representative
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4633704005 | Glean | Sales Development Representative 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4622149005 | Glean | Sales Development Representative (Dutch)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651043005 | Glean | Sales Development Representative (French)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4622147005 | Glean | Sales Development Representative (German)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4677146005 | Glean | Sales Development Representative (Portuguese)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4677145005 | Glean | Sales Development Representative (Spanish)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4673995005 | Glean | Strategic Account Executive
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4669991005 | Glean | Strategic Account Executive, New England
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4681664005 | Glean |  Strategic Account Executive, North Central
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4670095005 | Glean | Strategic Account Executive, Southeast 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4588653005 | Glean | Strategic Account Executive, Texas
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4664302005 | Glean | Strategic Federal Account Executive, Public Sector (DIB)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161980008 | Anthropic | Account Executive, Beneficial Deployments (French Speaking)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5165651008 | Anthropic | Account Executive, Beneficial Deployments (Portuguese Speaking)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5165670008 | Anthropic | Account Executive, Beneficial Deployments (Spanish Speaking)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5101378008 | Anthropic | Account Executive, Public Sector
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4461450008 | Anthropic | Account Executive, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4939815008 | Anthropic | Business Development Representative
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079916008 | Anthropic | Emerging Account Executive, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5118189008 | Anthropic | Enterprise Account Executive, DOD/IC
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5194670008 | Anthropic | Enterprise Account Executive, Federal Civilian Sales
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5196023008 | Anthropic | Enterprise Account Executive, Federal Civilian Sales - Commerce & Interior
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5196029008 | Anthropic | Enterprise Account Executive, Federal Civilian Sales - Education & Workforce
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5196014008 | Anthropic | Enterprise Account Executive, Federal Civilian Sales - Transport & Land
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5160180008 | Anthropic | Enterprise Account Executive, Federal Partners Sales
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5104753008 | Anthropic | Enterprise Account Executive, Financial Services & Insurance
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4947500008 | Anthropic | Enterprise Account Executive, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5104760008 | Anthropic | Enterprise Account Executive, Manufacturing & Automotive
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5104754008 | Anthropic | Enterprise Account Executive, Retail
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5102665008 | Anthropic | Enterprise Account Executive, State & Local Sales 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5181219008 | Anthropic | Enterprise Account Executive, State & Local Sales - North East
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5108347008 | Anthropic | Enterprise Account Executive, State & Local Sales - State of California
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5104756008 | Anthropic | Enterprise Account Executive, System Integrators
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4983646008 | Anthropic | Enterprise Account Executive, Tech
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5096041008 | Anthropic | Enterprise Account Executive, Telecommunications
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5104755008 | Anthropic | Enterprise Account Executive, Transportation & Utilities
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4423394008 | Anthropic | Growth Account Executive, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5175782008 | Anthropic | Manager, Account Executive - Enterprise Sales
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5042447008 | Anthropic | Manager, Account Executive (Growth Startup Sales)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4880880008 | Anthropic | Manager, Account Executive (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5097046008 | Anthropic | Manager, Enterprise Account Executive, Tech
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4976328008 | Anthropic | Manager, Growth Account Executive (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5190234008 | Anthropic | Manager, Partner Account Managers
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5095484008 | Anthropic | Manager, Sales Development (Enterprise)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5099163008 | Anthropic | Manager, Sales Development (Startups & Commercial)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4931772008 | Anthropic | Mid-Market Account Executive, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5077996008 | Anthropic | Mid-Market Account Executive, Tech
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5182887008 | Anthropic | Scaled Enterprise Account Executive, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4931782008 | Anthropic | SMB Account Executive, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4978280008 | Anthropic | Startup Account Executive - UKI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5168482008 | Anthropic | Strategic Account Executive, Canada Financial Services - FSI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5075093008 | Anthropic | Strategic Account Executive, Digital Native Business & Cybersecurity
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5176036008 | Anthropic | Strategic Account Executive, GSI 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074997008 | Anthropic | Strategic Account Executive, Healthcare
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4986288008 | Anthropic | Strategic Account Executive, Insurance
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5041290008 | Anthropic | Strategic Account Executive, Investment Banking & Capital Markets
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074995008 | Anthropic | Strategic Account Executive, Life Sciences
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5041299008 | Anthropic | Strategic Account Executive, Retail & Commercial Banking
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5109135008 | Anthropic | Strategic Account Executive, Tech
+- [ ] https://jobs.ashbyhq.com/decagon/67c794bd-e423-44b2-8b80-d7b759994cde | Decagon | Enterprise Account Executive 
+- [ ] https://jobs.ashbyhq.com/decagon/5bf50bc3-f676-4edc-90d2-bc8154d7ee84 | Decagon | Sales Development Representative (SDR)
+- [ ] https://jobs.ashbyhq.com/decagon/a60722ec-7a38-4d1b-a603-568f1cec92c4 | Decagon | Enterprise Account Executive
+- [ ] https://jobs.ashbyhq.com/decagon/037ea083-e556-4ce7-aca0-ec88f63772fc | Decagon | Manager, Sales Development
+- [ ] https://jobs.ashbyhq.com/decagon/502dbac0-66f2-4196-9dd7-c10bb4752b71 | Decagon | Business Development, Private Equity Lead
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4833709101 | Speechmatics | Senior Business Development Representative
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8403127002 | Airtable | Account Executive, Strategic Accounts
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8425211002 | Airtable | Business Development Representative
+- [ ] https://jobs.ashbyhq.com/pinecone/00e1245d-86d2-459b-af29-6203f7680e17 | Pinecone | Commercial Account Executive  
+- [ ] https://jobs.ashbyhq.com/sierra/c7e3f330-6649-4c42-920d-eb267ebd6d16 | Sierra | Business Development
+- [ ] https://jobs.ashbyhq.com/sierra/d4a8ec61-f97d-4010-9505-0fc2d8b00167 | Sierra | Enterprise Account Executive
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5835407004 | Boomi | Account Executive - Emerging Market
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5004405004 | Boomi | Commercial Sales Account Executive, Barcelona (Hybrid) - FUTURE OPPORTUNITIES
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5984211004 | Boomi | Emerging Growth Account Executive (Hybrid Denver)
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5983021004 | Boomi | Emerging Growth Account Executive (Hybrid Vancouver)
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5781610004 | Boomi | Enterprise Sales Development Manager (Vancouver Hybrid)
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5978922004 | Boomi | ISV Partner Account Manager
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5836195004 | Boomi | Midmarket Account Manager (Remote:  Chicago, Atlanta, Fort Lauderdale, Miami)
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5762615004 | Boomi | OEM Account Executive
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5799490004 | Boomi | Partner Account Manager
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=4984010004 | Boomi | Sales Development Representative - Future Opportunities (Vancouver Hybrid)
+- [ ] https://jobs.ashbyhq.com/n8n/c7fa45d1-6c5f-4fb8-8224-e5e04529c2bf | n8n | Enterprise Account Executive (Remote or Hybrid NYC/Boston)
+- [ ] https://jobs.ashbyhq.com/n8n/280c1099-86bb-4808-b780-ed913b09a488 | n8n | Enterprise Account Executive (Remote or Hybrid San Francisco)
+- [ ] https://jobs.ashbyhq.com/n8n/3f93e345-e648-4db5-9f1a-e88e79f38964 | n8n | Mid-Market Account Executive (Hybrid NYC/Boston)
+- [ ] https://jobs.ashbyhq.com/n8n/ce930abc-2c80-4f42-adb9-4377bb56c3f1 | n8n | Account Executive Talent Pool US
+- [ ] https://jobs.ashbyhq.com/zapier/68b635ca-0d12-4b3c-9404-3cc2a2f99274 | Zapier | Account Executive, Enterprise
+- [ ] https://jobs.ashbyhq.com/zapier/48b2e343-dd61-474b-95b0-549626fb070e | Zapier | Account Executive, Large Enterprise
+- [ ] https://jobs.ashbyhq.com/zapier/d4576c10-a27e-47fa-a056-30c898b9e672 | Zapier | Account Executive, Mid Market
+- [ ] https://jobs.ashbyhq.com/cohere/e550c9f7-db88-408b-a1ad-3aad9fd77bf1 | Cohere | Senior Account Executive - Energy & Utilities
+- [ ] https://jobs.ashbyhq.com/cohere/c199be74-1770-4db2-a06e-474bad4716fe | Cohere | Senior Account Executive - KSA
+- [ ] https://jobs.ashbyhq.com/cohere/98f69f63-2f54-4813-86ea-13d67336326e | Cohere | Senior Account Executive - US Public Sector (SLED, Civilian and Federal)
+- [ ] https://jobs.ashbyhq.com/cohere/995f4f08-d0db-42f1-ba44-f8f1a7e5a4d1 | Cohere | Strategic Account Executive - Telecommunications
+- [ ] https://jobs.ashbyhq.com/cohere/c0cab8c2-7215-449b-92c8-44b48c313514 | Cohere | Strategic Account Executive - Energy (oil and gas) & Utilities 
+- [ ] https://jobs.ashbyhq.com/langchain/9930dd01-d12e-42e1-b751-5240c3814f85 | LangChain | Enterprise Account Executive (San Francisco Bay Area)
+- [ ] https://jobs.ashbyhq.com/langchain/22bd243f-4088-49e0-bf02-fbad4442b0cb | LangChain | Commercial Account Manager (East Coast)
+- [ ] https://jobs.ashbyhq.com/langchain/b9cf3229-c257-4536-bae6-e9b63134dc68 | LangChain | Enterprise Account Executive (NYC)
+- [ ] https://jobs.ashbyhq.com/langchain/426359a5-3a48-4b81-ba25-b2f32678b153 | LangChain | Commercial Account Executive
+- [ ] https://jobs.ashbyhq.com/langchain/3c38ac0d-4cb5-4c04-86c0-37b20166c8ec | LangChain | Enterprise Account Executive (Chicago)
+- [ ] https://jobs.ashbyhq.com/langchain/fd3767ba-6247-47bd-85ae-7e76be3871e6 | LangChain | Enterprise Account Executive (Dallas)
+- [ ] https://jobs.ashbyhq.com/langchain/c16d44ab-faf0-4111-9ca7-8acb5dffcf46 | LangChain | Account Executive (UK)
+- [ ] https://jobs.ashbyhq.com/langchain/8b83f97a-12fb-42a6-9697-c3ef07646335 | LangChain | Sales Development Representative 
+- [ ] https://jobs.ashbyhq.com/langchain/9ef63e88-b1ff-4e88-9bf8-20c01439b80a | LangChain | Enterprise Account Executive (Stockholm)
+- [ ] https://jobs.ashbyhq.com/langchain/65dbb419-ca80-4fda-b1b7-b81c08878992 | LangChain | Commercial Account Executive (UK)
+- [ ] https://jobs.ashbyhq.com/langchain/6dc92e79-0018-43a8-9319-64bf2302339f | LangChain | Sales Development Director (San Francisco)
+- [ ] https://jobs.ashbyhq.com/langchain/e8020aeb-207f-4a4d-9df4-0cca5183e657 | LangChain | Sales Development Director (NYC)
+- [ ] https://jobs.ashbyhq.com/langchain/e408177e-54e8-4c08-8a70-d9bbd510b7ec | LangChain | Commercial Account Manager (UK)
+- [ ] https://jobs.ashbyhq.com/langchain/6847e38f-ec98-4fb2-a2cb-a97cdd9be108 | LangChain | Enterprise Account Executive (Federal) 
+- [ ] https://jobs.ashbyhq.com/klue/04c3e9d3-5171-40a4-9aaa-c15f2986a318 | Klue | Sales Development Representative
+- [ ] https://job-boards.greenhouse.io/safariai/jobs/5077155007 | Safari AI | Sales Development Representative 
+- [ ] https://job-boards.greenhouse.io/later/jobs/8206709002 | Later | Account Executive
+- [ ] https://job-boards.greenhouse.io/later/jobs/8359883002 | Later | Account Manager (Client Success)
+- [ ] https://job-boards.greenhouse.io/later/jobs/8151057002 | Later | Account Manager - Influencer Marketing
+- [ ] https://job-boards.greenhouse.io/later/jobs/8400634002 | Later | Affiliate Account Manager
+- [ ] https://job-boards.greenhouse.io/later/jobs/8436132002 | Later | Business Development Representative
+- [ ] https://careers.hootsuite.com/job/?gh_jid=7706127 | Hootsuite | Account Executive
+- [ ] https://careers.hootsuite.com/job/?gh_jid=7871359 | Hootsuite | Account Executive, Enterprise Sales
+- [ ] https://careers.hootsuite.com/job/?gh_jid=7843284 | Hootsuite | Account Executive, Mid-Market Sales
+- [ ] https://careers.hootsuite.com/job/?gh_jid=7796510 | Hootsuite | Account Manager, Mid Market (Italian Speaker, 12-month Contract)
+- [ ] https://careers.hootsuite.com/job/?gh_jid=7768198 | Hootsuite | Account Manager, Scale
+- [ ] https://careers.hootsuite.com/job/?gh_jid=7871356 | Hootsuite | Senior Account Executive, Enterprise Sales
+- [ ] https://careers.hootsuite.com/job/?gh_jid=7710139 | Hootsuite | Senior Enterprise Account Manager
+- [ ] https://careers.hootsuite.com/job/?gh_jid=7736037 | Hootsuite | Senior Enterprise Account Manager  
+- [ ] https://jobs.ashbyhq.com/attio/01869e97-176e-4f53-a701-86d6c69ef0ea | Attio | Account Executive
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/5142062008 | Black Forest Labs | Account Executive
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/5014658008 | Black Forest Labs | Senior Account Executive
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/6094078003?gh_jid=6094078003 | Celonis | Account Executive
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7634607003?gh_jid=7634607003 | Celonis | Account Executive - Automotive
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7657954003?gh_jid=7657954003 | Celonis | Account Executive - GCC
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7493399003?gh_jid=7493399003 | Celonis | Account Executive - Public Sector
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7493307003?gh_jid=7493307003 | Celonis | Account Executive - Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7538022003?gh_jid=7538022003 | Celonis | Account Executive - State & Local Govt
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7719380003?gh_jid=7719380003 | Celonis | Business Development Manager 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7627728003?gh_jid=7627728003 | Celonis | Business Development Representative (SaaS Sales)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7571246003?gh_jid=7571246003 | Celonis | Corporate Account Manager - Turkey
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7551536003?gh_jid=7551536003 | Celonis | Portfolio (Scale) Account Executive
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7549925003?gh_jid=7549925003 | Celonis | Senior Account Executive
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7688532003?gh_jid=7688532003 | Celonis | Strategic Account Executive
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7607677003?gh_jid=7607677003 | Celonis | Strategic Account Executive / Client Partner - Manufacturing 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7714633003?gh_jid=7714633003 | Celonis | Strategic Account Executive CPG / Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/6587626003?gh_jid=6587626003 | Celonis | Strategic Account Executive - Manufacturing
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7390097 | Contentful | Business Development Representative
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/6137574 | Contentful | Business Development Representative, Commercial- French speaking (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/5853004 | Contentful | Business Development Representative, Enterprise - French speaking (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/5853009 | Contentful | Business Development Representative, Enterprise- German speaking (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/6671440 | Contentful | Business Development Representative, Enterprise- Italian Speaking (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/6696223 | Contentful | Business Development Representative, Enterprise- Spanish speaking (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/5852946 | Contentful | Business Development Representative, Mid Market UKI (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7177651 | Contentful | Mid Market Account Executive - UKI (f/m/d)
+- [ ] https://jobs.ashbyhq.com/DeepL/ec04bc76-1c91-41c1-be56-f0c27cf3a62a | DeepL | Senior Account Executive - Enterprise 
+- [ ] https://jobs.ashbyhq.com/DeepL/f5368a8a-2eee-4340-b906-edbcdf8efcdf | DeepL | Commercial Account Executive | Benelux (Dutch or French speaking)
+- [ ] https://jobs.ashbyhq.com/DeepL/7d853b75-d857-4ebb-929b-b83abeab73a5 | DeepL | Commercial Account Executive | CEE
+- [ ] https://jobs.ashbyhq.com/DeepL/e2d24033-34a9-42eb-b4d8-2629a99b2638 | DeepL | Enterprise Account Executive | Benelux
+- [ ] https://jobs.ashbyhq.com/DeepL/85331c07-88f5-4004-9972-3906da73df9b | DeepL | Sales Development Representative - Inbound
+- [ ] https://jobs.ashbyhq.com/DeepL/4079d759-a55c-4d02-8882-e765559a0a9e | DeepL | Enterprise Account Executive - Italy
+- [ ] https://jobs.ashbyhq.com/DeepL/dc59654e-c78d-4ef9-b99d-a961b86ba5c3 | DeepL | Account Executive - Enterprise (Kansai) 関西担当営業
+- [ ] https://jobs.ashbyhq.com/DeepL/97ff1ac9-b89f-46b6-9bed-e738a25d5afc | DeepL | Senior Account Executive - Voice
+- [ ] https://jobs.ashbyhq.com/DeepL/49c1f91a-f8ff-4b00-b19f-b40bbbdd05a6 | DeepL | Enterprise Account Executive | UKI
+- [ ] https://jobs.ashbyhq.com/DeepL/5d5ed7b1-8a46-4123-8ad2-0b612b13355c | DeepL | Account Executive | Österreich
+- [ ] https://getyourguide.careers/jobs/7847143?gh_jid=7847143 | GetYourGuide | Account Executive - Italy
+- [ ] https://getyourguide.careers/jobs/7571062?gh_jid=7571062 | GetYourGuide | Account Executive - Scandinavia
+- [ ] https://getyourguide.careers/jobs/7857001?gh_jid=7857001 | GetYourGuide | New Business Development Manager (Malay Speaker)
+- [ ] https://getyourguide.careers/jobs/7731783?gh_jid=7731783 | GetYourGuide | Senior Account Manager
+- [ ] https://careers.hellofresh.com/global/en/job/7739124?gh_jid=7739124 | HelloFresh | Account Executive, Retail Media
+- [ ] https://careers.hellofresh.com/global/en/job/7814150?gh_jid=7814150 | HelloFresh | Outbound Sales / Business Development Lead
+- [ ] https://careers.hellofresh.com/global/en/job/7549024?gh_jid=7549024 | HelloFresh | Senior Business Development Manager (Retail Media Sales)
+- [ ] https://careers.hellofresh.com/global/en/job/7759556?gh_jid=7759556 | HelloFresh | Senior Manager, Business Development - Factor for Business
+- [ ] https://jobs.ashbyhq.com/lakera.ai/2c533f1b-4fe3-40da-a3e2-4627977cbda4 | Lakera | Enterprise Account Executive, UAE (Dubai)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/e706d9d8-8560-4b8f-af89-ce2831aa2d60 | Lakera | Enterprise Account Executive (Italy)
+- [ ] https://jobs.ashbyhq.com/cradlebio/07b4fd84-7dcf-4e31-a1f5-c2cff0e44f78 | Cradle | Account Executive, Global Accounts
+- [ ] https://sumup.com/careers/positions/8441295002?gh_jid=8441295002 | SumUp | Account Executive
+- [ ] https://sumup.com/careers/positions/8507795002?gh_jid=8507795002 | SumUp | Account Manager (HVM) - French 
+- [ ] https://sumup.com/careers/positions/8507799002?gh_jid=8507799002 | SumUp | Account Manager (HVM) - German
+- [ ] https://sumup.com/careers/positions/8496755002?gh_jid=8496755002 | SumUp | Growth Account Manager
+- [ ] https://sumup.com/careers/positions/8378143002?gh_jid=8378143002 | SumUp | Sales Development Representative
+- [ ] https://sumup.com/careers/positions/8087738002?gh_jid=8087738002 | SumUp | Sales Development Representative - German Market
+- [ ] https://jobs.ashbyhq.com/photoroom/904abc87-8f6f-482d-9205-e0032e4c45af | Photoroom | Business Development Representative
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7621849 | Scandit | Business Development Representative
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7433796 | Scandit | Strategic Account Manager, USA
+- [ ] http://stability.ai/careers?gh_jid=4673732101 | Stability AI | Enterprise Account Executive
+- [ ] http://stability.ai/careers?gh_jid=4558218101 | Stability AI | Sales Development Representative
+- [ ] https://jobs.ashbyhq.com/synthesia/11cac93d-fea6-4f22-add1-d4e3bb904b94 | Synthesia | Enterprise Account Executive
+- [ ] https://jobs.ashbyhq.com/synthesia/81fbed84-4d11-491c-8659-6a96d5ad4e77 | Synthesia | Strategic Account Executive (German Speaking)
+- [ ] https://jobs.ashbyhq.com/synthesia/2b03be25-5926-45ec-a361-358f3db823db | Synthesia | Sales Development Representative
+- [ ] https://jobs.ashbyhq.com/synthesia/30e9bca5-32ce-4609-8546-47772b6315a1 | Synthesia | Strategic Account Executive
+- [ ] https://jobs.ashbyhq.com/synthesia/09deb5a4-5570-4016-9d0b-a88983b3c1dd | Synthesia | Sales Development Representative - German Speaker
+- [ ] https://jobs.ashbyhq.com/synthesia/302e723c-5973-4cbb-a661-3f28d94418d4 | Synthesia | Sales Development Representative - French Speaker
+- [ ] https://jobs.ashbyhq.com/synthesia/a7adbc7d-043e-4350-9f14-dabaf848fd6f | Synthesia | Sales Development Representative 
+- [ ] https://jobs.ashbyhq.com/lovable/c8ae0225-d765-447e-8436-0a9a24345a28 | Lovable | Global Head of Strategic Partnerships and Business Development
+- [ ] https://jobs.ashbyhq.com/lovable/118e129c-1634-4bd2-bf1b-a99a28aa6608 | Lovable | Account Executive
+- [ ] https://jobs.ashbyhq.com/legora/41ce10ab-8cb7-4923-a2e3-819875689a7c | Legora | Account Executive SMB
+- [ ] https://jobs.ashbyhq.com/legora/3f2e1bb4-2a6d-4ce6-8cb9-7cbde773d80c | Legora | Account Executive Enterprise
+- [ ] https://jobs.ashbyhq.com/legora/ce9b7b29-2909-4d0d-93e8-dad83a1a06a1 | Legora | Business Development Representative
+- [ ] https://jobs.ashbyhq.com/legora/341b8ffd-24e7-4691-bc7e-1ac6c2128fb1 | Legora | Account Executive
+- [ ] https://jobs.ashbyhq.com/legora/f5893c3c-c9c6-4a3c-8f2e-30431247891d | Legora | Account Executive Mid-Market
+- [ ] https://jobs.ashbyhq.com/legora/0002076c-d001-470a-b308-1df68e66f661 | Legora | Account Executive - Public Sector
+- [ ] https://jobs.ashbyhq.com/legora/13a86d48-18a7-4be2-a488-992015c7e2d6 | Legora | Account Executive Mid Market
+- [ ] https://jobs.ashbyhq.com/legora/59da056f-4579-4e91-9a70-9ca8b8e2f249 | Legora | Business Development Representative - Spanish Speaker
+- [ ] https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd | Perplexity | Business Development Representative
+- [ ] https://jobs.ashbyhq.com/claylabs/84212160-462f-42a1-a9c2-b9b6428e945f | Clay Labs | Account Executive (GTME - New Business)
+- [ ] https://jobs.ashbyhq.com/claylabs/6a716895-54fb-41f7-9cd5-13ff6a4085a4 | Clay Labs | Account Executive (GTME - High Velocity)
+- [ ] https://jobs.ashbyhq.com/claylabs/8e889f4c-01d0-443c-a088-91b96d844aee | Clay Labs | Enterprise Account Executive, New Verticals
+- [ ] https://jobs.ashbyhq.com/claylabs/7bd35c48-c394-46c8-98a1-f809fed007d8 | Clay Labs | Account Executive (GTME) - SMB/High Velocity
+- [ ] https://jobs.ashbyhq.com/workos/0b8ebc20-37a2-484a-9220-ce1679764b08 | WorkOS | Business Development Representative
+- [ ] https://jobs.ashbyhq.com/workos/821bcec6-7149-47fb-93a4-49cee4aaae74 | WorkOS | Account Manager
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5983622004 | Hightouch | Account Executive, Mid-Market - Mountain West
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5363099004 | Hightouch | Account Executive, Mid-Market West
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5799234004 | Hightouch | Enterprise Account Executive - East
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5703873004 | Hightouch | Enterprise Account Executive - MENA 
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5726252004 | Hightouch | Enterprise Account Executive -Mountain West
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5146297004 | Hightouch | Enterprise Account Executive - West
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5972960004 | Hightouch | Manager, Sales Development
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5206751004 | Hightouch | Sales Development Representative, East
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5829222004 | Hightouch | Sales Development Representative, West
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5379537004 | Hightouch | Technical Account Manager
+- [ ] https://jobs.ashbyhq.com/resend/78e3376d-46b3-4c24-9553-76eb85c0e73d | Resend | Account Executive
+- [ ] https://jobs.ashbyhq.com/resend/394a878f-bd3d-4c08-9140-d1d149c31eea | Resend | Business Development & Partnerships
+- [ ] https://jobs.ashbyhq.com/supabase/69d1b2ec-9d9b-45b0-937a-a8454f66487e | Supabase | Enterprise Account Executive , Bay Area 
+- [ ] https://jobs.ashbyhq.com/supabase/0aba9686-a3f0-4459-be3e-337bc7b0f90c | Supabase | Account Executive (USA)
+- [ ] https://jobs.ashbyhq.com/clerk/cc13322d-892c-4fec-bf9f-07dc605343b3 | Clerk | Senior Technical Account Manager
+- [ ] https://jobs.lever.co/mistral/2a357282-9d44-4b41-a249-c75ffe878ce2 | Mistral AI | Account Executive - Enterprise, (Consulting)
+- [ ] https://jobs.lever.co/mistral/7894fd8a-ffc9-4c89-87f0-f8a7b695cf01 | Mistral AI | Account Executive – AI for Citizens
+- [ ] https://jobs.lever.co/mistral/618c9763-cb22-4343-baca-cf1cf6b05f5c | Mistral AI | Account Executive, Digital Native US
+- [ ] https://jobs.lever.co/mistral/ed08b81f-9c52-4f86-addd-c4c06f3b114a | Mistral AI | Account Executive, Enterprise - New York
+- [ ] https://jobs.lever.co/mistral/25757afe-9b9d-4be7-87e1-e744eaa01105 | Mistral AI | Account Executive, Enterprise - SF Bay Area
+- [ ] https://jobs.lever.co/mistral/04a3a058-aff8-4cc4-a419-eb09e83fa947 | Mistral AI | Account Executive, Enterprise, Netherlands
+- [ ] https://jobs.lever.co/mistral/abff0584-d2e2-446e-b2a8-28d660e3773a | Mistral AI | Account Manager - Morocco
+- [ ] https://jobs.lever.co/mistral/b551de18-b9ae-493e-beb1-629fe9e88381 | Mistral AI | Business Development Manager - Tech Partners
+- [ ] https://jobs.lever.co/spotify/1ff4a4e3-897c-4eab-9ee2-aa7d1d07a9d6 | Spotify | Account Executive - Backstage
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4823568101 | Amplemarket | Outbound Account Executive, US
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066423101 | Amplemarket | Sales Development Representative
+- [ ] https://jobs.lever.co/pigment/3ad3e4c6-33f2-49ef-8e97-a39abf812113 | Pigment | Business Development Representative
+- [ ] https://jobs.lever.co/pigment/869f8f33-87dd-4d34-b515-010d6078089a | Pigment | Enterprise Account Executive - West
+- [ ] https://jobs.lever.co/pigment/4ace4f88-26af-45a1-bb70-d022a6cfc4fe | Pigment | Enterprise Account Executive, East Region
+- [ ] https://jobs.lever.co/pigment/dc29bce0-4b62-4952-a335-78983d9228ad | Pigment | Mid-Market Account Executive - Austin
+- [ ] https://jobs.lever.co/pigment/d8decefb-f988-4130-8633-fa835ae229c1 | Pigment | Sales Development Representative - German Speaking

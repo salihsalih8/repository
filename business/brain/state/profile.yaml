@@ -1,0 +1,428 @@
+# profile.yaml — Nagato's Master Profile
+# Source of truth for Resume Forge. Every fact on every generated resume
+# must come from this file. Forge cannot invent, embellish, or extrapolate.
+
+version: 1
+last_updated: 2026-05-01
+
+# ============================================================
+# CONTACT
+# ============================================================
+contact:
+  name: "Salih Salih"
+  email: "salihrsalih10@gmail.com"
+  phone: "(248) 952-7691"
+  location: "Bloomfield Hills, MI"
+  linkedin: "linkedin.com/in/salihsalih1"
+
+# ============================================================
+# SHARED — used by both tracks
+# ============================================================
+shared:
+  education:
+    - degree: "Bachelor of Science"
+      field: "Information Technology — Cybersecurity"
+      school: "Walsh College"
+      location: "Troy, MI"
+      start: "2021"
+      end: "2023"
+      relevant_coursework:
+        - "Cybersecurity"
+        - "Data Security"
+        - "System Security"
+        - "Cryptography"
+        - "Computer Forensics"
+        - "Windows Server"
+        - "System Analysis"
+        - "Networks & Operating Systems"
+
+    - degree: "Associate of Applied Science"
+      field: "Engineering, Manufacturing, and Industrial Technology"
+      school: "Oakland Community College"
+      location: "Auburn Hills, MI"
+      start: "2020"
+      end: "2024"
+
+    - degree: "Associate of Science"
+      field: "Computer Information Systems: Cyber-Security"
+      school: "Oakland Community College"
+      location: "Bloomfield Hills, MI"
+      end: "2024"
+
+  certifications:
+    - name: "SSCP (ISC)²"
+      issuer: "ISC²"
+      date: "2022"
+
+    - name: "CompTIA Security+"
+      issuer: "CompTIA"
+      date: "2020"
+
+    - name: "IBM SQL and Relational Databases 101"
+      issuer: "IBM"
+      date: "2021"
+
+    - name: "TestOut Windows Server Pro"
+      issuer: "TestOut"
+      date: "2021"
+
+    - name: "TestOut Ethical Hacker"
+      issuer: "TestOut"
+      date: "2020"
+
+    - name: "TestOut Security Pro"
+      issuer: "TestOut"
+      date: "2020"
+
+    - name: "TestOut Network Pro"
+      issuer: "TestOut"
+      date: "2019"
+
+  languages:
+    - language: "English"
+      proficiency: "native"
+    - language: "Arabic"
+      proficiency: "native"
+
+  skills_master_list:
+    sales_and_business:
+      - "territory management"
+      - "consultative selling"
+      - "full sales cycle"
+      - "account development"
+      - "cold outreach"
+      - "pipeline management"
+      - "objection handling"
+      - "contract negotiation"
+      - "B2B sales"
+      - "lead generation"
+      - "client relationship management"
+    healthcare:
+      - "medical device sales"
+      - "healthcare provider relations"
+      - "physician-level communication"
+      - "clinical product knowledge"
+      - "Medicare & reimbursement workflows"
+      - "HIPAA compliance"
+      - "provider onboarding"
+      - "wound-care biologics"
+      - "amniotic membrane products"
+      - "skin substitutes"
+      - "CMS reimbursement"
+      - "healthcare market analysis"
+    it_and_security:
+      - "network administration"
+      - "cybersecurity fundamentals"
+      - "vulnerability assessment"
+      - "incident response"
+      - "endpoint security"
+      - "Active Directory"
+      - "Windows Server"
+      - "Linux administration"
+      - "TCP/IP"
+      - "WAN/LAN troubleshooting"
+      - "HIPAA security risk assessment"
+      - "digital forensics"
+    field_technical:
+      - "fiber optic installation"
+      - "network troubleshooting"
+      - "field service"
+      - "customer-facing technical support"
+      - "independent workload prioritization"
+    tools_and_platforms:
+      - "CRM Systems"
+      - "Tissue Vault"
+      - "Microsoft Office Suite"
+      - "Google Workspace"
+      - "Salesforce"
+      - "Kali Linux"
+      - "Wireshark"
+      - "Nessus"
+      - "Metasploit"
+      - "VMware"
+      - "SQL"
+    soft:
+      - "communication"
+      - "problem solving"
+      - "self-directed work"
+      - "cross-functional collaboration"
+      - "adaptability"
+      - "rapid learner"
+      - "resilient"
+      - "detail-oriented"
+      - "analytical"
+
+# ============================================================
+# TRACK A — MEDICAL SALES
+# ============================================================
+tracks:
+  medical_sales:
+    summary_seed: >
+      Medical sales representative with hands-on experience in healthcare B2B sales,
+      provider relationship development, and consultative selling within a highly
+      regulated environment. Background spans wound-care biologics, Medicare-aligned
+      workflows, and provider onboarding. Combines clinical fluency with modern
+      marketing strategy through independent consulting work at Future Foundations
+      Solutions. IT and cybersecurity background provides credibility when selling
+      to technical decision-makers in hospital settings.
+
+    target_titles:
+      - "Medical Sales Representative"
+      - "Medical Device Sales Representative"
+      - "Healthcare Sales Representative"
+      - "Pharmaceutical Sales Representative"
+      - "Territory Sales Manager (Medical)"
+      - "Clinical Sales Specialist"
+      - "Wound Care Sales Representative"
+      - "Biologics Sales Representative"
+
+    experience:
+      - role: "Medical Sales Representative"
+        company: "Advanced Solution"
+        location: "Michigan Territory"
+        start: "2025-09"
+        end: "present"
+        context: >
+          Field sales role focused on wound-care biologics including amniotic
+          membranes, skin substitutes, and wound matrix solutions. Currently
+          navigating CMS reimbursement changes that have made amniotic wraps
+          non-viable under new 2026 policies — actively transitioning accounts
+          to higher-value product categories.
+        bullets_pool:
+          - "Supported provider outreach and account development across Michigan, engaging podiatry, wound-care, and dermatology offices to identify opportunities, qualify prospects, and advance relationships through the sales pipeline"
+          - "Conducted consultative sales calls with physicians and clinical staff, delivering tailored product recommendations across a portfolio of advanced wound-care biologics including SimpliMax, AmchoThick, Membrane Wrap, Tri-Membrane Wrap, Abiomend Xplus, AmchoPlast, and Omeza OCM"
+          - "Educated providers on Medicare-aligned billing and documentation standards, helping practices implement compliant workflows that reduced claim denials and increased reimbursement confidence"
+          - "Managed full account onboarding lifecycle including enrollment forms, Business Associate Agreements, benefit verification, and internal routing to support, orders, and reimbursement teams"
+          - "Leveraged Tissue Vault digital platform to assist accounts with ordering, inventory management, patient assignment, IVR processing, and centralized compliance recordkeeping"
+          - "Positioned solutions by addressing provider pain points around documentation burden, staff bandwidth, vendor fragmentation, and audit risk — driving adoption through operational value and clinical credibility"
+          - "Navigated objections related to Medicare coverage, competitive suppliers, and category skepticism by demonstrating clinical depth, compliance strength, and workflow differentiation"
+          - "Monitored CMS policy developments and adapted sales strategy accordingly, proactively identifying reimbursement shifts and transitioning account conversations to higher-value solutions"
+          - "Maintained accurate records of customer interactions, account status, and pipeline activity to ensure timely follow-up and data integrity across the territory"
+          - "Developed strong product knowledge across multiple membrane configurations and manufacturers, understanding differences between single-layer, dual-layer, and tri-layer configurations"
+          - "Built clinical fluency in amniotic membrane science including regenerative scaffolding, growth factors, anti-inflammatory properties, and antimicrobial support in chronic wound settings"
+          - "Qualified whether clinics were already using biologics, positioned Advanced Solution differently against existing suppliers, and addressed objections around Medicare coverage, staff bandwidth, and denials"
+
+      - role: "Founder & Sales/Marketing Strategist"
+        company: "Future Foundations Solutions (Sales & Marketing Agency)"
+        location: "Bloomfield Hills, MI"
+        start: "2024"
+        end: "present"
+        context: >
+          Independent sales and marketing agency focused on digital lead
+          generation, sales funnels, and provider-facing messaging for healthcare
+          and medical product markets. Built marketing infrastructure to support
+          the medical sales process.
+        bullets_pool:
+          - "Built and executed end-to-end marketing campaigns targeting medical decision-makers, including ad copy, landing page messaging, and lead-nurturing flows tailored to evidence-driven, compliance-sensitive audiences"
+          - "Developed positioning frameworks addressing provider psychology — including category fatigue, compliance concerns, and skepticism — producing messaging grounded in workflow value and clinical outcomes"
+          - "Analyzed buyer journey stages to design campaigns moving cold audiences from awareness to sales-ready qualification, strengthening top-of-funnel lead quality and improving conversion rates"
+          - "Created content and ad copy tailored to provider psychology in the wound-care space, addressing concerns around category fatigue, distrust of overhyped biologics, and compliance questions"
+          - "Designed multi-angle marketing strategies targeting different buyer psychologies — hope/innovation angles and pain/fear-of-missing-out angles — while maintaining compliance-safe, evidence-driven positioning"
+
+      - role: "Cybersecurity Consultant"
+        company: "Integrative Medicine & Hijama Clinic"
+        location: "Canton, MI"
+        start: "2025-02"
+        end: "present"
+        context: >
+          Cross-functional engagement bridging IT security and clinical operations.
+          Builds credibility with technical decision-makers in healthcare settings.
+        bullets_pool:
+          - "Conducted HIPAA security risk assessments and implemented risk mitigation strategies within a healthcare environment, reinforcing deep knowledge of healthcare compliance and regulatory standards"
+          - "Developed cybersecurity policies, access controls, and incident response procedures — demonstrating strong organizational skills, attention to detail, and ability to manage complex multi-stakeholder projects"
+
+    track_specific_certifications: []
+
+  # ============================================================
+  # TRACK B — IT / CYBERSECURITY
+  # ============================================================
+  it_cybersecurity:
+    summary_seed: >
+      IT and cybersecurity professional with CompTIA Security+ and SSCP
+      certifications, field technician background at a tier-1 telecom provider,
+      and active consulting work securing clinical environments under HIPAA.
+      Combines hands-on infrastructure experience with vulnerability assessment,
+      compliance practice, and medical sales communication skills — uniquely
+      positioned for roles requiring both technical depth and client-facing
+      communication ability.
+
+    target_titles:
+      - "Cybersecurity Analyst"
+      - "Security Operations Analyst"
+      - "IT Support Specialist"
+      - "Network Administrator"
+      - "Field Technician"
+      - "Junior Penetration Tester"
+      - "Information Security Analyst"
+      - "Help Desk Technician"
+
+    experience:
+      - role: "Cybersecurity Consultant"
+        company: "Integrative Medicine & Hijama Clinic"
+        location: "Canton, MI"
+        start: "2025-02"
+        end: "present"
+        context: >
+          Securing clinical IT environment under HIPAA constraints. Hands-on
+          security assessment and policy development for a healthcare practice.
+        bullets_pool:
+          - "Conducted HIPAA security risk assessments and implemented risk mitigation strategies within a healthcare environment"
+          - "Developed cybersecurity policies, access controls, and incident response procedures for a multi-stakeholder clinical setting"
+          - "Implemented endpoint hardening and access control measures to protect patient data and meet HIPAA compliance requirements"
+
+      - role: "Network Infrastructure Field Technician"
+        company: "Lumen Technologies"
+        location: "Southfield, MI"
+        start: "2024-01"
+        end: "2024-12"
+        context: >
+          Tier-1 telecom field operations — fiber, copper, customer-premise
+          installation and troubleshooting across a regional territory.
+        bullets_pool:
+          - "Performed hands-on field technical work across a regional territory requiring extensive daily driving, client site visits, and independent workload prioritization"
+          - "Demonstrated exceptional time management and route planning while managing multiple simultaneous field assignments across a broad geographic area"
+          - "Delivered customer-facing technical support, troubleshooting network connectivity issues and ensuring service quality at client sites"
+
+      - role: "IT Specialist"
+        company: "Delta Airlines — International Catering Company"
+        location: ""
+        start: "2021-12"
+        end: "2022-10"
+        context: >
+          Internal IT support role covering hardware, software, and network
+          infrastructure for a mid-size enterprise.
+        bullets_pool:
+          - "Maintained, monitored, and configured all hardware, software, LAN, and WAN infrastructure"
+          - "Supported and maintained Windows 2016 and 2019 servers; imaged, configured, and deployed Windows computer equipment with required items"
+          - "Assisted IT Manager in developing training documentation and user guides for common user issues"
+          - "Setup and supported audio/video equipment, office phones, and web conferencing needs"
+          - "Managed and maintained inventory of computer and technology assets"
+
+      - role: "Technology Consultant (Contract)"
+        company: "Unity Center"
+        location: "Bloomfield Hills, MI"
+        start: "2021-11"
+        end: "2022-01"
+        context: >
+          Short-term consulting engagement for network infrastructure and
+          hardware procurement.
+        bullets_pool:
+          - "Conducted requirement gathering meetings to determine scope definition for network infrastructure project"
+          - "Engaged in communication with business professionals, stakeholders, and end-users in face-to-face meetings"
+          - "Worked with client to develop solutions using approved network hardware and networking best practices"
+          - "Updated and purchased new hardware based on workstation and facility needs after establishing budget scope"
+
+      - role: "Founder & AI Strategist"
+        company: "Future Foundations Solutions (AI Agency)"
+        location: "Bloomfield Hills, MI"
+        start: "2024"
+        end: "present"
+        context: >
+          Independent AI agency providing automation, data, and technical
+          consulting services with healthcare market focus. Included on IT
+          track when role calls for entrepreneurial, AI, or consulting context.
+        bullets_pool:
+          - "Built and executed end-to-end marketing campaigns targeting medical decision-makers, including ad copy, landing page messaging, and lead-nurturing flows"
+          - "Applied technical knowledge of digital platforms and CRM systems to build scalable marketing infrastructure"
+
+      - role: "Primary Service Desk Technician"
+        company: "Logicalis Inc"
+        location: "Bloomfield Hills, MI"
+        start: "2020-02"
+        end: "2020-06"
+        context: >
+          Enterprise help desk role supporting multiple client environments with
+          a focus on quality service delivery.
+        bullets_pool:
+          - "Served as first point of contact for clients seeking technical assistance"
+          - "Walked clients through problem-solving process to troubleshoot software and hardware issues"
+          - "Performed remote troubleshooting through RDP and LogMeIn Rescue"
+          - "Educated clients about security protocols in communication tunnels, email security, and password security"
+          - "Placed in top 2 highest quality agents from over 125 agents; received Top Quality Awards for March, May, and June 2020"
+
+    track_specific_certifications:
+      - name: "SSCP (ISC)²"
+        issuer: "ISC²"
+        date: "2022"
+      - name: "CompTIA Security+"
+        issuer: "CompTIA"
+        date: "2020"
+      - name: "TestOut Ethical Hacker"
+        issuer: "TestOut"
+        date: "2020"
+      - name: "TestOut Security Pro"
+        issuer: "TestOut"
+        date: "2020"
+      - name: "TestOut Network Pro"
+        issuer: "TestOut"
+        date: "2019"
+      - name: "TestOut Windows Server Pro"
+        issuer: "TestOut"
+        date: "2021"
+
+    projects:
+      - name: "HIPAA Security Assessment — Integrative Medicine Clinic"
+        description: "Conducted full HIPAA security risk assessment, developed cybersecurity policies, access controls, and incident response procedures for a clinical practice handling protected health information."
+        technologies: ["HIPAA", "Risk Assessment", "Policy Development", "Access Control"]
+
+# ============================================================
+# RECOGNITION & AWARDS
+# ============================================================
+  recognition:
+    - "Academic Achievement Award in Recognition of Academic Excellence (Oakland University)"
+    - "Logicalis Top Quality Awards — March, May, and June 2020"
+    - "Placed in top 2 highest quality agents from over 125 agents (Logicalis)"
+
+# ============================================================
+# STYLE / FORGE DIRECTIVES
+# ============================================================
+style:
+  forbidden_characters:
+    - "—"  # em-dash
+    - "–"  # en-dash
+  forbidden_phrases:
+    - "leveraged"
+    - "synergized"
+    - "spearheaded"
+    - "results-driven"
+    - "team player"
+    - "go-getter"
+    - "passionate about"
+    - "wheelhouse"
+  preferred_action_verbs:
+    - "built"
+    - "led"
+    - "delivered"
+    - "owned"
+    - "grew"
+    - "reduced"
+    - "secured"
+    - "negotiated"
+    - "closed"
+    - "diagnosed"
+    - "resolved"
+    - "deployed"
+    - "implemented"
+  bullet_format:
+    start_with: "action_verb"
+    quantify_when_possible: true
+    never_fabricate_numbers: true
+    max_lines: 2
+  resume_length:
+    medical_sales: "1_page_preferred"
+    it_cybersecurity: "1_to_2_pages"
+  design_system:
+    name: "Deep Navy and Gold"
+    header_style: "B"
+
+# ============================================================
+# NOTES FOR FORGE
+# ============================================================
+notes:
+  - "Currently employed at Advanced Solution — do NOT phrase any role as 'seeking new opportunity' on the resume itself."
+  - "Cybersecurity consulting is concurrent with medical sales — both are 'present.'"
+  - "When generating medical sales resumes, the IT/security background is a credibility asset for selling to technical hospital decision-makers — surface it briefly, do not bury it."
+  - "When generating IT/security resumes, the medical sales role demonstrates client-facing communication skills — frame accordingly."
+  - "CMS policy changes in early 2026 made amniotic wraps non-viable — Salih is actively transitioning to higher-value product categories."
+  - "Multilingual: English and Arabic (both native)."
+  - "Valid Michigan Driver's License — relevant for field sales roles."
